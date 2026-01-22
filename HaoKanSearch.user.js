@@ -4,8 +4,8 @@
 // @version      0.0.6
 // @description  在好看视频网页中添加按钮：支持配置搜索引擎、边界自动吸附、防丢失、触屏拖拽。
 // @author       SeekFreeSky
-// @downloadURL  https://github.com/SeekFreeSky/HaoKanSearch/blob/main/HaoKanSearch.user.js
-// @updateURL    https://github.com/SeekFreeSky/HaoKanSearch/blob/main/HaoKanSearch.user.js
+// @downloadURL  https://github.com/SeekFreeSky/HaoKanSearch/raw/refs/heads/main/HaoKanSearch.user.js
+// @updateURL    https://github.com/SeekFreeSky/HaoKanSearch/raw/refs/heads/main/HaoKanSearch.user.js
 // @match        *://haokan.baidu.com/*
 // @grant        GM_openInTab
 // @grant        GM_addStyle

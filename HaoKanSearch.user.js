@@ -4,8 +4,8 @@
 // @version      0.0.8
 // @description  [交互重构] 拆分抖音和B站搜索按钮，独立跳转；优化光标体验；保留防丢失、跨标签同步等高级功能。
 // @author       SeekFreeSky
-// @downloadURL  https://github.com/SeekFreeSky/HaoKanSearch/blob/main/HaoKanSearch.user.js
-// @updateURL    https://github.com/SeekFreeSky/HaoKanSearch/blob/main/HaoKanSearch.user.js
+// @downloadURL  https://github.com/SeekFreeSky/HaoKanSearch/raw/refs/heads/main/HaoKanSearch.user.js
+// @updateURL    https://github.com/SeekFreeSky/HaoKanSearch/raw/refs/heads/main/HaoKanSearch.user.js
 // @match        *://haokan.baidu.com/*
 // @grant        GM_openInTab
 // @grant        GM_addStyle

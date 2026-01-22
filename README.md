@@ -2,7 +2,7 @@
 > **全网搜同款，从未如此简单。**  
 > 一个功能强大、交互优雅的油猴脚本，专为百度好看视频用户打造。自动提取纯净标题，一键跳转抖音或 Bilibili 搜索原版视频。
 
-![Version](https://img.shields.io/badge/Version-0.0.8-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Manager](https://img.shields.io/badge/Manager-Tampermonkey-orange)
+![Version](https://img.shields.io/badge/Version-0.0.8-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Manager](https://img.shields.io/badge/Manager-Tampermonkey-orange) [![Install](https://img.shields.io/badge/Install-Script-brightgreen)](https://github.com/SeekFreeSky/HaoKanSearch/raw/main/HaoKanSearch.user.js)
 
 
 ## 📖 简介

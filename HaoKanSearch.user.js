@@ -4,6 +4,7 @@
 // @version      0.0.2
 // @description  在好看视频网页中添加按钮，点击后在抖音和B站搜索当前视频标题
 // @author       SeekFreeSky
+// @updateURL    https://github.com/SeekFreeSky/HaoKanSearch/blob/main/HaoKanSearch.user.js
 // @match        *://haokan.baidu.com/*
 // @grant        GM_openInTab
 // @grant        GM_addStyle

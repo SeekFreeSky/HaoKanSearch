@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         好看视频标题搜索 (完美版-防丢失+可配置)
+// @name         好看视频标题搜索
 // @namespace    https://github.com/SeekFreeSky/HaoKanSearch
 // @version      0.0.6
 // @description  在好看视频网页中添加按钮：支持配置搜索引擎、边界自动吸附、防丢失、触屏拖拽。
